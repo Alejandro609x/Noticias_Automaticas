@@ -1,7 +1,3 @@
-¡Perfecto! 🔹 Te armo un **README profesional y completo** para ambos scripts, explicando claramente su uso, instalación y objetivos, listo para entregar a tu equipo.
-
----
-
 # 📄 README - Noticias de Ciberseguridad y CVEs
 
 ## 🔹 Propósito
@@ -171,13 +167,3 @@ Para dudas sobre configuración o nuevas fuentes:
 
 * Correo del responsable: `asalazarl@finanzas.cdmx.gob.mx`
 * Autor: Alejandro Salazar Luis
-
----
-
-Si quieres, puedo generar **un archivo `requirements.txt` profesional** listo para copiar y pegar con todas las dependencias exactas para ambos scripts, de manera que tu equipo solo haga:
-
-```bash
-pip install -r requirements.txt
-```
-
-¿Quieres que haga eso también?
