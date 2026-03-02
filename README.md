@@ -28,11 +28,11 @@ pip install feedparser beautifulsoup4 requests lxml googletrans==4.0.0-rc1 tweep
 
 ## 🔹 Instalación
 
-1. Clonar o descargar el proyecto:
+1. Clonar o descargar el proyecto desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/NoticiasCiber.git
-cd NoticiasCiber
+git clone https://github.com/Alejandro609x/Noticias_Automaticas.git
+cd Noticias_Automaticas
 ```
 
 2. Crear un entorno virtual (opcional pero recomendado):
@@ -74,8 +74,6 @@ APP_PASSWORD = "TU_APP_PASSWORD_DE_16_CARACTERES"
 ```python
 BEARER_TOKEN = "TU_BEARER_TOKEN_DE_X"
 ```
-
-> Asegúrate de no usar la Consumer Key ni Secret Key para este script.
 
 3. **Fuentes de noticias**:
 
@@ -167,3 +165,4 @@ Para dudas sobre configuración o nuevas fuentes:
 
 * Correo del responsable: `asalazarl@finanzas.cdmx.gob.mx`
 * Autor: Alejandro Salazar Luis
+
