@@ -31,8 +31,8 @@ CUENTAS_X = [
 ]
 
 # Correo
-EMAIL_REMITENTE = "ale609jandro609@gmail.com"
-EMAIL_DESTINO = "asalazarl@finanzas.cdmx.gob.mx"
+EMAIL_REMITENTE = "usuario@gmail.com"
+EMAIL_DESTINO = "usuario@gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 APP_PASSWORD = "TOKENGENERADA"
